@@ -44,7 +44,7 @@ We applied a variety of data wrangling techniques to ensure data quality and rea
 To evaluate and improve internship program outcomes, the following key performance indicators (KPIs) were developed:
 
 - Students Enrollment and Engagement Overview
-- Student Profile and Internship Readiness Geo-distribution
+- Student Profile and Internship Readiness 
 - Geography, Experience, and Challenge Insights
 
 ## Key Insights
