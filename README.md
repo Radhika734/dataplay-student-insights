@@ -65,8 +65,12 @@ To evaluate and improve internship program outcomes, the following key performan
 
 ### Geography, Experience, and Challenge Insights
 
-- Detailed insights into geographic distribution of applicants and interns, leveraging integrated pincode-level data enriched with state and region information.
-- Analysis of prior experience levels and challenges faced by applicants.
+- We've seen the highest student engagement in the DataPlay program coming from Andhra Pradesh, Maharashtra, and Uttar Pradesh.
+- Many students are finding it difficult to build their skills in core areas of data science. The most common challenges include gaining hands-on experience, learning programming, working on real-world projects, and understanding machine 
+  learning, statistics, and mathematics.
+- Around 21% of students are finding it hard to demonstrate relevant experience when applying for jobs. Additionally, 10–15% are struggling to build projects to showcase in interviews and are also facing challenges in finding suitable job opportunities.
+
+**This information helps the company improve its training programs, target high-engagement regions, and offer better career support to boost student success and program impact.**
 
 ## Dashboards
 
