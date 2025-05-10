@@ -10,7 +10,7 @@ This project aims to track the applicant journey and evaluate the performance of
 - [KPIs Developed](#kpis-developed)
 - [Key Insights](#key-insights)
   - [Students Enrollment and Engagement Overview](#students-enrollment-and-engagement-overview)
-  - [Student Profile and Internship Readiness Geo-distribution](#student-profile-and-internship-readiness-geo-distribution)
+  - [Student Profile and Internship Readiness](#student-profile-and-internship-readiness)
   - [Geography, Experience, and Challenge Insights](#geography-experience-and-challenge-insights)
 - [Dashboards](#dashboards)
 - [Conclusion](#conclusion)
@@ -51,17 +51,34 @@ To evaluate and improve internship program outcomes, the following key performan
 
 ### Students Enrollment and Engagement Overview
 
-- **Highest Total Applicants**: 'Friend Referred' source had the highest number of applicants at 44, which was 1,366.67% higher than 'Dataplay Reached Out To You' with only 3 applicants.
-- **Correlation**: Total applicants and interns joined show a positive correlation.
-- **Top Source**: 'Friend Referred' accounted for 57.89% of total applicants.
-- **Degree Insights**: Among the top 10 degrees, total applicants ranged from 1 to 139, offers sent from 1 to 82, and students joined from 1 to 38.
-- **Placement Status**: 199 students were not already placed, compared to 25 who were.
+- **Internship Progress (Previous Batch):**
+In the previous batch, about 62% of students received internship offers, and roughly 25% successfully completed the internship, showing a solid conversion and completion rate.
 
-### Student Profile and Internship Readiness Geo-distribution
+- **Enrollment Growth:**
+There has been a notable 20–25% increase in enrollments in the current batch compared to the previous one, indicating growing interest and trust in the program.
 
-- **Orientation Test Scores**: Group 1 had the highest average score at 12.88, which was 114.58% higher than Group 3 with 6.00. Scores ranged from 6.00 to 12.88 across 16 attendance values.
-- **Skills**: Python was known by 207 interns, followed by SQL and Excel.
-- **Company Analysis**: Microsoft had the highest intern count at 11, followed by TCS and Google. Microsoft accounted for 9.48% of all company placements. Across 50 companies, counts ranged from 1 to 11.
+- **Learning Preferences:**
+An overwhelming 80–90% of students prefer online and collaborative learning environments, suggesting the need for flexible and interactive formats.
+
+- **Source of Engagement:**
+Most student engagement comes through the DataPlay LinkedIn page, making it the most effective platform for outreach and visibility.
+
+- **Internship Track Preferences:**
+Around 30% of students prefer internship programs focused on SQL and Power BI, highlighting strong demand for data visualization and query language skills.
+
+
+**This information helps the company scale effectively by understanding growth trends, student preferences, and the most impactful outreach channels.**
+
+
+
+### Student Profile and Internship Readiness
+
+- A majority of students—about 58%—are aiming to become Data Analysts, while around 33% are aspiring to become Data Scientists, showing a strong interest in analytics-focused career paths.
+- **Academic Background:** Roughly half of the students come from B.Tech programs, primarily in Computer Science, IT, or Data Science streams, indicating a technically inclined learner base.
+
+- **Skill Levels in Key Tools:** When it comes to tools like Excel, SQL, and Power BI, around 40% of students are just getting started. Interestingly, about 60% haven’t even begun learning Statistics, highlighting a major gap in foundational skills.
+
+**This information helps the company tailor its curriculum to match students’ career goals, technical backgrounds, and current skill levels for more effective learning outcomes.**
 
 ### Geography, Experience, and Challenge Insights
 
